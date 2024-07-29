@@ -8,6 +8,8 @@ Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.1.0] - 2024-07-29
+
 ### Added 
 
 #### Prototype functionality
@@ -32,3 +34,6 @@ Versioning](https://semver.org/spec/v2.0.0.html).
 - `Error return` enum type.
 - `EnvSequence` enum type.
 - Defaults for public types.
+
+[Unreleased]: https://github.com/sonro/envsafe/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/sonro/envsafe/releases/tag/v0.1.0
