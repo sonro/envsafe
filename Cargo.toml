@@ -2,6 +2,7 @@
 name = "envsafe"
 version = "0.1.0"
 authors = ["Christopher Morton <sonro@gmx.com>"]
+description = "Rust library to safely combine dotenv files with existing environment"
 repository = "https://github.com/sonro/envsafe"
 license = "MIT"
 readme = "README.md"
