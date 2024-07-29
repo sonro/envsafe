@@ -1,6 +1,13 @@
 [package]
-name = "safenvfile"
+name = "envsafe"
 version = "0.1.0"
+authors = ["Christopher Morton <sonro@gmx.com>"]
+repository = "https://github.com/sonro/envsafe"
+license = "MIT"
+readme = "README.md"
 edition = "2021"
+rust-version = "1.80.0"
 
 [dependencies]
+ahash = "0.8.11"
+
