@@ -1,5 +1,11 @@
 # envsafe (WIP)
 
+[![Crates.io](https://img.shields.io/crates/v/envsafe.svg)](https://crates.io/crates/envsafe)
+[![msrv
+1.80.0](https://img.shields.io/badge/msrv-1.80.0-dea584.svg?logo=rust)](https://github.com/rust-lang/rust/releases/tag/1.80.0)
+[![Documentation](https://img.shields.io/docsrs/envsafe?logo=docs.rs)](https://docs.rs/envsafe/)
+[![license](https://img.shields.io/crates/l/envsafe.svg)](#license)
+
 Load `.env` files in Rust, without using unsafe!
 
 ```sh
