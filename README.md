@@ -8,6 +8,8 @@
 
 Load `.env` files in Rust, without using unsafe!
 
+**WORK IN PROGRESS | DO NOT USE**
+
 ```sh
 # .env
 SOME_ENV_VAR='Hello envsafe'
